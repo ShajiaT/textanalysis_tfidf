@@ -1,5 +1,5 @@
 """
-Lab 15: Unstructured Text Analysis & Automated Triage with TF-IDF
+Unstructured Text Analysis & Automated Triage with TF-IDF
 Course: Data Science Tools & Techniques
 
 Instructions:
@@ -8,7 +8,7 @@ in VS Code / PyCharm / Spyder (using the `# %%` markers) or directly via termina
     python lab15_starter.py
 """
 
-# %% [markdown]
+
 # ## Setup & Dataset Loading
 
 # %%
